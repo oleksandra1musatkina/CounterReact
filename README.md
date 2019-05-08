@@ -1,2 +1,0 @@
-# CounterReact
-Created with CodeSandbox
